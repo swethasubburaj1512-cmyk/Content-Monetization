@@ -18,12 +18,18 @@ This project aims to predict YouTube ad revenue using machine learning technique
 
 # Project structure
 
-Content-Monetization/
+Content-Monetization
+
 │
+
 ├── Content_Monetization.ipynb   # Jupyter Notebook for model building
+
 ├── app.py                       # Streamlit app
+
 ├── requirements.txt             # Python dependencies
+
 ├── README.md
+
 └── dataset/                     # Folder containing the dataset
 
 
